@@ -1,0 +1,1 @@
+A database project for a music store typically involves designing and implementing a database system to manage various aspects of the store's operations, including information about patient , patient_drug_Nurse , Drug , DurgBrand , Nurse , Ward , patient_consultaint , consultants . Here's an overview of the components you might find in a  Hosptial system database project:
